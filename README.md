@@ -1,8 +1,13 @@
-# XERXES
+##### XERXES
+<p align="center">
+	<img src="https://i.imgur.com/irjPuRt.jpg" width="600px">
+</p>
+
 XERXES la herramienta Ddos más potente.
 
-__🦂 INSTALACION:🦂__
+##### 🦂 INSTALACION:🦂
 
+```
 * apt update && apt upgrade -y
 
 * pkg install -y git
@@ -19,14 +24,14 @@ __🦂 INSTALACION:🦂__
 
 * gcc xerxes.c -o xerxes
 
-__USO:__
-
+USO:
 
 * ./xerxes www.fakeweb.com 80
+```
 
-__By: Scorpio28__
+##### By: Scorpio28
 
-__El uso de la herramienta, es responsabilidad de quien la utilize.__
+##### El uso de la herramienta, es responsabilidad de quien la utilize.
 
 
-__🎭 EL CONOCIMIENTO ES LIBRE. 🎭__
+##### 🎭 EL CONOCIMIENTO ES LIBRE. 🎭
