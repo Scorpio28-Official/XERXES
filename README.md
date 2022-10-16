@@ -5,26 +5,22 @@ XERXES la herramienta Ddos más potente.
 ##### 🦂 INSTALACION:🦂
 
 ```
-* apt update && apt upgrade -y
+apt update && apt upgrade -y
 
-* pkg install -y git
+pkg install -y git
 
-* git clone https://github.com/Scorpio28-Official/XERXES
+git clone https://github.com/Scorpio28-Official/XERXES
 
-* cd XERXES
+cd XERXES
 
-* ls
+chmod 777 xerxes.c
 
-* chmod 777 xerxes.c
+gcc xerxes.c -o xerxes
 
-* ls
-
-* gcc xerxes.c -o xerxes
-
-USO:
-
-* ./xerxes www.fakeweb.com 80
 ```
+###### USO:
+
+./xerxes www.fakeweb.com 80
 
 ##### By: Scorpio28
 
